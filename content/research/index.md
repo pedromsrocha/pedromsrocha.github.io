@@ -8,8 +8,7 @@ and collaborators had established an [instantiation](https://link.springer.com/c
 to accommodate shared mutable state, which is an essential building block
 of modern software development. The resulting language CLASS lies at sweet spot 
 between expressiveness and safety: we can code 
-realistic concurrent programs involving memory-efficient linked data structures and
-and sophisticated thread synchronisation. The logical foundations guarantee that well-typed 
+realistic concurrent programs involving memory-efficient linked data structures and sophisticated thread synchronisation. The logical foundations guarantee that well-typed 
 CLASS programs do not go wrong: they never deadlock, do not leak memory and they always terminate. 
 
 Below you can find my publications and some of my talks.  
