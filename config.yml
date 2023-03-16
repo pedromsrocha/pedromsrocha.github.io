@@ -1,0 +1,46 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: My New Hugo Site
+theme: PaperMod
+
+Copyright: The content of this site is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+params:
+  defaultTheme: auto # dark, light
+
+  disableThemeToggle: false
+
+  profileMode: 
+    enabled: true # needs to be explicitly set
+    title: ExampleSite
+    subtitle: "This is subtitle"
+    imageUrl: self.png
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+
+
+  socialIcons:
+    - name: linkedin
+      url: "https://linkedin.com/"
+    - name: github
+      url: "https://github.com/"
+
+  label:
+    text: "Pedro Rocha"
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: research
+      name: Research
+      url: /research/
+      weight: 10
+    - name: Linkedin
+      url: https://www.linkedin.com/in/pedro-rocha-632bb7a3/
+    - name: GitHub
+      url: https://github.com/pedromsrocha
+  
