@@ -1,3 +1,7 @@
++++
+layout = "about"
++++
+
 Hey there 👋, I'm Pedro. 
  
 The SVG image in the background of my homepage is a reproduction of Escher's 

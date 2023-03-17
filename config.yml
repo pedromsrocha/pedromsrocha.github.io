@@ -33,11 +33,11 @@ menu:
   main:
     - identifier: about
       name: About
-      url: /about/
+      url: /about
       weight: 10
     - identifier: research
       name: Research
-      url: /research/
+      url: /research
       weight: 10
     - name: Linkedin
       url: https://www.linkedin.com/in/pedro-rocha-632bb7a3/
